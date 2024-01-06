@@ -2,7 +2,7 @@ export const products = [
     {
         id: 1,
         name: 'Teclado Mecanico RGB',
-        description: 'Teclado Mecánico con luces RGB switches cherry red',
+        description: 'Teclado Mecanico con luces RGB switches cherry red',
         price: 1000
     },
     {
@@ -14,7 +14,7 @@ export const products = [
     {
         id: 3,
         name: 'Audifono Bluetooth Sony',
-        description: 'Audífono Bluetooth para smartphone',
+        description: 'Audifono Bluetooth para smartphone',
         price: 770
     },
     {
@@ -26,13 +26,13 @@ export const products = [
     {
         id: 5,
         name: 'Asus Nvidia RTX',
-        description: 'Tarjeta Gráfica para juegos en 4k',
+        description: 'Tarjeta Grafica para juegos en 4k',
         price: 5000
     },
     {
         id: 6,
         name: 'CPU Intel Core i5',
-        description: 'Optimizada para tareas multicore de 12va generación',
+        description: 'Optimizada para tareas multicore',
         price: 4000
     },
 ]
